@@ -1,1 +1,1 @@
-# Plant-Disease-Detection
+Intern ID : CITS2831
